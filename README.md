@@ -8,7 +8,7 @@ El objetivo del proyecto es desarrollar tecnología informática utilizando Cien
 
 * Analizar las necesidades de datos e información sobre biodiversidad publicadas por iniciativas nacionales e internacionales en Informática para la Biodiversidad (ej. [Essential Biodiversity Variables - EBV](https://geobon.org/ebvs/what-are-ebvs/), [Global Biodiversity Informatics Outlook](https://www.biodiversityinformatics.org/en/gbio-framework/overview/) y proponer mecanismo para solventar estas necesidades utilizando Ciencias de los Datos.</p> 
 
-* Compartir los datos, conocimiento y experiencia adquirida por medio de publicaciones científicas, talleres y repositorios de acceso libre y gratuito. </p>
+* Compartir los datos, conocimiento y experiencia adquirida por medio de publicaciones, cursos y repositorios de acceso libre y gratuito. </p>
 
 <b> Líneas de trabajo 2023 </b></p>
 
