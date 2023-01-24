@@ -10,7 +10,7 @@ El objetivo del proyecto es desarrollar tecnología informática utilizando Cien
 
 * Compartir los datos, conocimiento y experiencia adquirida por medio de publicaciones, cursos y repositorios de acceso libre y gratuito. </p>
 
-<b> Líneas de trabajo 2023 </b></p>
+## Líneas de trabajo 2023 
 
 Durante esta etapa del proyecto, las líneas de trabajo serán:</p>
 
