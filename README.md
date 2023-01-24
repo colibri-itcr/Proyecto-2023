@@ -23,4 +23,4 @@ Durante esta etapa del proyecto, las líneas de trabajo serán:</p>
 * Evaluar diferentes enfoques de implementación de cada una de las líneas de trabajo y seleccionar los que mejor se ajusten a los requerimientos de los usuarios.</p>
 * Investigar, implementar aplicaciones y poner en común resultados por medio de reuniones periódicas (por lo general nos reunimos cada semana o 15 días). </p>
 * Hacer un análisis comparativo de resultados por enfoque.</p>
-* Publicar los datos y resultados obtenidos por el proyecto durante el año por medio de congresos y este repositorio.  </p>
+* Publicar los datos y resultados obtenidos por el proyecto durante el año por medio de congresos, cursos y este repositorio.  </p>
