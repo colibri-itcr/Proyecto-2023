@@ -4,7 +4,7 @@ El objetivo del proyecto es desarrollar tecnología informática utilizando Cien
 
 <b>Objetivos específicos</b>
 
-* Crear modelos que permitan extraer datos de biodiversidad a partir de textos o imágenes que complementen los datos disponibles en repositorios globales (ej.  Global Biodiversity Information Facility - GBIF).</p>
+* Crear modelos que permitan extraer datos de biodiversidad a partir de textos o imágenes que complementen los datos disponibles en repositorios globales (ej. [Global Biodiversity Information Facility](https://www.gbif.org/)).</p>
 
 * Analizar las necesidades de datos e información sobre biodiversidad publicadas por iniciativas nacionales e internacionales en Informática para la Biodiversidad (ej. [Estrategia Nacional de Biodiversidad](https://www.enbcr.go.cr/), [Essential Biodiversity Variables - EBV](https://geobon.org/ebvs/what-are-ebvs/), [Global Biodiversity Informatics Outlook](https://www.biodiversityinformatics.org/en/gbio-framework/overview/) y proponer mecanismo para solventar estas necesidades utilizando Ciencias de los Datos.</p> 
 
@@ -16,7 +16,7 @@ Durante esta etapa del proyecto, las líneas de trabajo serán:</p>
 
 * Aplicar algoritmos de procesamiento de lenguaje natural (NLP) y aprendizaje automático (ML) para crear modelos de preguntas y respuestas sobre datos e información sobre biodiversidad aplicables en educación ambiental y turismo sostenible.</p>
 
-* Evaluar conjuntos de imágenes de biodiversidad para medir aptitud de uso en desarrollo de capacidades (ej. cursos del TEC). Por ejemplo, imágenes de [Pl@ntNet-300K image dataset](https://zenodo.org/record/5645731#.Y88UadLMJpz), imágenes de [iNaturalist.org](https://www.inaturalist.org/) e imágenes del [Global Biodiversity Information Facility](https://www.gbif.org/), entre otros repositorios. </p>
+* Evaluar conjuntos de imágenes de biodiversidad para medir aptitud de uso en desarrollo de capacidades (ej. cursos del TEC). Por ejemplo, imágenes de [Pl@ntNet-300K image dataset](https://zenodo.org/record/5645731#.Y88UadLMJpz), imágenes de [iNaturalist.org](https://www.inaturalist.org/) e imágenes de GBIF, entre otros repositorios. </p>
 
 <b> Metodología de trabajo </b>
 
