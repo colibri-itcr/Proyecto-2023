@@ -16,7 +16,7 @@ Durante esta etapa del proyecto, las líneas de trabajo serán:</p>
 
 * Aplicar algoritmos de procesamiento de lenguaje natural (NLP) y aprendizaje automático (ML) para crear modelos de preguntas y respuestas sobre datos e información sobre biodiversidad aplicables en educación ambiental y turismo sostenible.</p>
 
-* Evaluar conjuntos de imágenes de biodiversidad para medir aptitud de uso en proyectos de cursos del TEC u otros. Por ejemplo, imágenes de [Pl@ntNet-300K image dataset](https://zenodo.org/record/5645731#.Y88UadLMJpz), imágenes de [iNaturalist.org] (https://www.inaturalist.org/) o del [Global Biodiversity Information Facility] (https://www.gbif.org/), entre otros repositorios. c
+* Evaluar conjuntos de imágenes de biodiversidad para medir aptitud de uso en desarrollo de capacidades (ej. cursos del TEC). Por ejemplo, imágenes de [Pl@ntNet-300K image dataset](https://zenodo.org/record/5645731#.Y88UadLMJpz), imágenes de [iNaturalist.org] (https://www.inaturalist.org/) e imágenes del [Global Biodiversity Information Facility] (https://www.gbif.org/), entre otros repositorios. </p>
 
 <b> Metodología de trabajo </b>
 
