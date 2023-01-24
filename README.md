@@ -1,4 +1,4 @@
-# Proyecto 
+# Ciencias de los Datos aplicada a la conservación de la biodiversidad 
 
 El objetivo del proyecto es desarrollar tecnología informática utilizando Ciencias de los Datos para extraer datos de distintas fuentes no fácilmente accesibles (ej. publicaciones científicas, descripciones morfológicas de especímenes y observaciones, imágenes) para apoyar la conservación de la biodiversidad en el marco del desarrollo sostenible.
 
@@ -10,8 +10,9 @@ El objetivo del proyecto es desarrollar tecnología informática utilizando Cien
 
 * Compartir los datos, conocimiento y experiencia adquirida por medio de publicaciones científicas, talleres y repositorios de acceso libre y gratuito. </p>
 
-<b> Líneas de trabajo 2023 </b>
-Durante esta etapa del proyecto, las líneas de trabajo serán:
+<b> Líneas de trabajo 2023 </b></p>
+
+<p>Durante esta etapa del proyecto, las líneas de trabajo serán:</p>
 
 * Aplicar algoritmos de procesamiento de lenguaje natural (NLP) y aprendizaje automático (ML) para crear modelos de preguntas y respuestas sobre datos e información sobre biodiversidad aplicables en educación ambiental y turismo sostenible.</p>
 
